@@ -1,0 +1,11 @@
+{
+  "parts":[
+    {
+      "name":"ep_EssayAudit",
+      "hooks": {
+        "eejsBlock": "ep_demo/index.js:eejsBlock_editbarMenuRight",
+        "eejsBlock": "ep_demo/index.js:eejsBlock_scripts",
+      }
+    }
+  ]
+}

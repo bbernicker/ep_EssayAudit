@@ -1,0 +1,9 @@
+{
+  "name": "ep_EssayAudit",
+  "version": "0.0.1",
+  "description": "Tool for generating reports on Essays.",
+  "author": {
+    "name": "@brendanbernicker"
+  },
+  "license": "None - All rights reserved."
+}
